@@ -1,0 +1,23 @@
+.main .user-form-main{
+    margin-top:50px;
+}
+
+.main .user-form-typography{
+    cursor:pointer;
+    margin-top:10px;
+    color:rgb(174, 50, 50);
+}
+
+.main .user-form-typography:hover{
+    color:rgb(234, 50, 50);
+}
+
+.main .user-form-paper{
+    margin-top:50px;
+    padding:0 30px 30px 30px;
+}
+
+.main .user-form-main-container{
+    min-height: 100vh;
+    background-color:rgb(230,230,230);
+}

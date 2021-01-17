@@ -1,0 +1,9 @@
+.main .cabinet-main-container{
+    min-height: calc(100vh - 70px);
+    background-color:rgb(240,240,240);
+}
+
+.main .cabinet-paper{
+    margin-top:50px;
+    padding:30px;
+}
